@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W510x\\source\\repos\\Login_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\f\u0151oldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\f\u0151oldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\f\u0151oldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\f\u0151oldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\term\u00E9k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\term\u00E9k.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\regisztr\u00E1ci\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\regisztr\u00E1ci\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\r\u00F3lunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\r\u00F3lunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|c:\\users\\w510x\\source\\repos\\login_\\login_\\regisztr\u00E1ci\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DA0956-5586-4D4B-8CB6-959B47CA4C15}|Login_\\Login_.csproj|solutionrelative:login_\\regisztr\u00E1ci\u00F3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form2.cs",
+              "RelativeDocumentMoniker": "Login_\\Form2.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form2.cs [Design]",
+              "RelativeToolTip": "Login_\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:01:08.033Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Term\u00E9k.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Term\u00E9k.cs",
+              "RelativeDocumentMoniker": "Login_\\Term\u00E9k.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Term\u00E9k.cs [Design]",
+              "RelativeToolTip": "Login_\\Term\u00E9k.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:58:59.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "R\u00F3lunk.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\R\u00F3lunk.cs",
+              "RelativeDocumentMoniker": "Login_\\R\u00F3lunk.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\R\u00F3lunk.cs [Design]",
+              "RelativeToolTip": "Login_\\R\u00F3lunk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:58:04.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F\u0151oldal.cs",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\F\u0151oldal.cs",
+              "RelativeDocumentMoniker": "Login_\\F\u0151oldal.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\F\u0151oldal.cs",
+              "RelativeToolTip": "Login_\\F\u0151oldal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:42:01.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "regisztr\u00E1ci\u00F3.cs",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\regisztr\u00E1ci\u00F3.cs",
+              "RelativeDocumentMoniker": "Login_\\regisztr\u00E1ci\u00F3.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\regisztr\u00E1ci\u00F3.cs",
+              "RelativeToolTip": "Login_\\regisztr\u00E1ci\u00F3.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA+wBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:17:33.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form1.cs",
+              "RelativeDocumentMoniker": "Login_\\Form1.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form1.cs",
+              "RelativeToolTip": "Login_\\Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:11:08.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F\u0151oldal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\F\u0151oldal.cs",
+              "RelativeDocumentMoniker": "Login_\\F\u0151oldal.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\F\u0151oldal.cs [Design]",
+              "RelativeToolTip": "Login_\\F\u0151oldal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:04:33.912Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "regisztr\u00E1ci\u00F3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\regisztr\u00E1ci\u00F3.cs",
+              "RelativeDocumentMoniker": "Login_\\regisztr\u00E1ci\u00F3.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\regisztr\u00E1ci\u00F3.cs [Design]",
+              "RelativeToolTip": "Login_\\regisztr\u00E1ci\u00F3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:03:43.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form1.cs",
+              "RelativeDocumentMoniker": "Login_\\Form1.cs",
+              "ToolTip": "C:\\Users\\W510x\\source\\repos\\Login_\\Login_\\Form1.cs [Design]",
+              "RelativeToolTip": "Login_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:48:48.897Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
